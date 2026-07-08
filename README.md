@@ -1,4 +1,10 @@
+💫 About Me:
+I am an Artificial Intelligence undergraduate pursuing a Bachelor of Technology in Computer Science (AI) from Babu Banarasi Das University, along with a Minor in Artificial Intelligence from IIT Mandi. I have a solid foundation in software development and a growing focus on building intelligent, real-world solutions.
 
+🔹 Core Expertise
+
+Technical Skills: Python, Java, HTML, CSS, JavaScript, with hands-on experience in Git and GitHub.
+Development & Problem Solving:
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prince-singh-85b146260?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Prince Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sr6187068@gmail.com) 
 
